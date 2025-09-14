@@ -71,7 +71,3 @@ T = toggle click-through, Q = quit
 # License
 
 This project is released under the MIT License. See `LICENSE` for full text.
-
----
-
-If you want, I can also add a `LICENSE` file, a short example config for axis remapping, or a packaged Windows executable recipe (PyInstaller) — tell me which and I'll add it.
